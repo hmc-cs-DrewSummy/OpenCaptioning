@@ -1,6 +1,9 @@
 Name: Drew Summy
+
 Email: dtsummy@gmail.com
+
 Status: graduated
+
 Link to Project Github: https://github.com/hmc-cs-DrewSummy/OpenCaptioning
 
 Project Name: Open Captioning
