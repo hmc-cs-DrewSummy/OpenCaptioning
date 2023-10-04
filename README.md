@@ -26,10 +26,13 @@ Open constants.py and replace {YOUR-METAPHOR-KEY} with your metaphor key. Instal
 
 ## Dependencies
 Python 3
+
 Pip with these commands to get started
+
     pip install pytube
     pip install git+https://github.com/linto-ai/whisper-timestamped
     pip install metaphor_python
     pip install pygame
     pip install moviepy
+    
 This has been tested on a Windows PC with Python 3.11.0 and ffmpeg installed.
